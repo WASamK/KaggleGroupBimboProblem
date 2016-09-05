@@ -1,3 +1,4 @@
+## Solution to group Bimbo problem using GBM apprach.
 library(h2o)
 
 ##set the maximum memory size to 7g. If this is not set, the default values will be 1g for 32 bit java and 1/4 of awailable memory for 64 but java
